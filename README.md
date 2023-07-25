@@ -30,3 +30,11 @@ UDEV rules can be leveraged to run the connect and cleanup scripts, An example r
 ACTION=="add", SUBSYSTEM=="net", NAME=="ipheth 1-1.1.2:4.2", RUN+="/home/pi/Desktop/connect.sh"
 
 With UDEV rules in place you'll only need to run the charge.py script.
+
+## DEMO
+
+
+
+https://github.com/LemonSec/johnnyapplethief/assets/33465511/eda8cdea-0d54-483d-8804-47b7fb1c51a3
+
+
